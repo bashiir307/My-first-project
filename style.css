@@ -118,4 +118,46 @@ img{
 		display: grid;
 	}
 }
-	
+@media (max-width: 1024px) {
+	.main-form {
+		width: 100%;
+		position: relative; bottom: 4rem;
+		font-size: 14px;
+	}
+	#user{
+		width: 70%;
+		height:30px 
+	}
+	#pword{
+		width: 70%;
+		height: 30px;
+	}
+	.log{
+		width: 70%;
+		height: 30px;
+	}
+	img{
+		height: 40px;
+    	width: 50px;
+    	position: ;
+		top: 1.5rem;
+		left: 30.5rem;
+		border-radius: 3px;
+	}
+	.head p{
+		position: relative; top: 4rem;
+		font-size: 12px;
+	}
+	.bottom a {
+		padding-left: 1rem;
+		position: relative; bottom: 4rem;
+	}
+	.bottom p{
+		padding-left: 1rem;
+		position: relative; bottom: 4rem;	
+	}
+	.bottom{
+		display: grid;
+		font-size: 14px
+	}
+}
