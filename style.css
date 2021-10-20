@@ -86,12 +86,15 @@ img{
 	}
 	#user{
 		width: 150px;
+		height: 30px;
 	}
 	#pword{
 		width: 150px;
+		height:30px;
 	}
 	.log{
 		width: 150px;
+		height:30px;
 	}
 	img{
 		height: 30px;
