@@ -78,4 +78,41 @@ img{
 	background: #3366ff;
 	cursor: pointer;
 }
+@media (max-width: 700px) {
+	.main-form {
+		width: 250px;
+		position: relative; bottom: 4rem;
+		font-size: 12px;
+	}
+	#user{
+		width: 150px;
+	}
+	#pword{
+		width: 150px;
+	}
+	.log{
+		width: 150px;
+	}
+	img{
+		height: 30px;
+		width: 40px;
+		margin: auto;
+		position: relative; top: 4rem; left: 13.5rem;
+	}
+	.head p{
+		position: relative; top: 4rem;
+		font-size: 12px;
+	}
+	.bottom a {
+		padding-left: 1rem;
+		position: relative; bottom: 4rem;
+	}
+	.bottom p{
+		padding-left: 1rem;
+		position: relative; bottom: 4rem;	
+	}
+	.bottom{
+		display: grid;
+	}
+}
 	
